@@ -1,3 +1,5 @@
 Simon Vasquez Uribe
 20
 Aspiro dominar el paradigma de la programacion orientada a objetos y aprender un lenguaje de programacion nuevo
+Ahora si pudimos realizar el commit ya que la carpeta ya no esta vacia.
+es importante modificara archivos uno por uno ya que esto nos puee generar un conflito al momento de trabajar en un proyecto colaborativo
